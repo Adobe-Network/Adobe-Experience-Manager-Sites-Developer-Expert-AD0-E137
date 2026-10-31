@@ -60,10 +60,6 @@ flowchart LR
     style D fill:#1A3B5C,stroke:#00A4E4,stroke-width:1px,color:#FFF
 ```
 
-*Suggested learning progression, not an official Adobe prerequisite or certification pathway.*
-
----
-
 ## Recommended Practice & Study Resources
 
 To prepare effectively, combine Adobe's official exam preparation materials with practical AEM development and focused practice:
